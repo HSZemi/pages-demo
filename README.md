@@ -10,4 +10,4 @@ Hier kommt due Linkliste!
 
 ## Bester Executive Supervisor
 
-* [Jon Ola Sand]ihttps://de.wikipedia.org/wiki/Jon_Ola_Sand)
+* [Jon Ola Sand](https://de.wikipedia.org/wiki/Jon_Ola_Sand)
