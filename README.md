@@ -1,6 +1,6 @@
 # pages-demo
 
-Hier kommt due Linkliste!
+Hier kommt die Linkliste!
 
 ## wichtige Links
 
